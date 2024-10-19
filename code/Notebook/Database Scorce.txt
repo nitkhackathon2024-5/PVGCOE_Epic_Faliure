@@ -1,0 +1,37 @@
+1. Credit Card Fraud Dataset
+Source: Kaggle
+Purpose: This dataset contains transactions made by credit cards in September 2013 by European cardholders. The dataset is heavily imbalanced, with only 0.172% of the transactions labeled as fraudulent. It is commonly used to build anomaly detection models to identify fraudulent credit card transactions.
+
+2. LendingClub Loan Data
+Source: LendingClub
+Purpose: This dataset includes information about loans issued by LendingClub, including details about the borrower, loan amount, interest rates, and payment history. It can be used to analyze anomalies in loan repayment behavior, identify potential defaults, and assess risk factors.
+
+3. Bank Marketing Dataset
+Source: UCI Machine Learning Repository
+Purpose: This dataset contains information about direct marketing campaigns (phone calls) of a Portuguese bank. It includes demographic data, campaign details, and whether the client subscribed to a term deposit. It can be used to detect anomalies in customer behavior or responses to marketing efforts.
+
+4. Cryptocurrency Price Data
+Source: CoinMarketCap
+Purpose: This dataset contains historical price data of various cryptocurrencies, including Bitcoin, Ethereum, and others. It can be used to analyze market trends, identify anomalies in trading patterns, and detect unusual price spikes or drops that may indicate market manipulation or fraud.
+
+5. Financial Time Series Data
+Source: Yahoo Finance
+Purpose: Time series data for various financial instruments (stocks, ETFs, indices) can be used to identify anomalies in price movements, trading volumes, and trends. This dataset is useful for detecting outliers that may signal significant market events or anomalies in trading behavior.
+
+6. Synthetic Financial Datasets
+Source: Various online platforms (e.g., Kaggle)
+Purpose: Synthetic datasets can be generated using tools like SDV (Synthetic Data Vault) to simulate realistic financial transactions and behaviors. These datasets can be used to test anomaly detection models in controlled environments, allowing for the evaluation of different scenarios and edge cases.
+
+7. Employee Expense Reports Dataset
+Source: Various online repositories or created synthetically
+Purpose: This dataset contains records of employee expense claims, including amounts, dates, categories, and descriptions. It can be used to detect anomalies in expense claims, such as fraudulent claims or unusual spending patterns that deviate from the norm.
+
+8. Stock Market Data
+Source: Alpha Vantage
+Purpose: This dataset provides historical stock market data, including prices, volumes, and indicators for various stocks. It can be used to analyze trading anomalies, such as sudden price changes or abnormal trading volumes that may indicate insider trading or market manipulation.
+9. Insurance Claims Dataset
+Source: Kaggle
+Purpose: This dataset includes information on insurance claims, including claim amounts, types of claims, and policyholder details. It can be used to detect anomalies in claims processing and identify fraudulent claims.
+10. Transactional Data from E-commerce
+Source: Kaggle
+Purpose: This dataset contains transactional data from an e-commerce platform, including user interactions, purchase history, and product details. It can be used to identify anomalies in consumer purchasing behavior, such as sudden spikes in purchasing activity or unusual transaction patterns.
